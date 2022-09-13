@@ -1,0 +1,100 @@
+C:\Users\DELL\source\repos\project GUI\project GUI\bin\Debug\project GUI.exe.config
+C:\Users\DELL\source\repos\project GUI\project GUI\bin\Debug\project GUI.exe
+C:\Users\DELL\source\repos\project GUI\project GUI\bin\Debug\project GUI.pdb
+C:\Users\DELL\source\repos\project GUI\project GUI\obj\Debug\project GUI.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\project GUI\project GUI\obj\Debug\project_GUI.Properties.Resources.resources
+C:\Users\DELL\source\repos\project GUI\project GUI\obj\Debug\project GUI.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\project GUI\project GUI\obj\Debug\project GUI.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\project GUI\project GUI\obj\Debug\project GUI.exe
+C:\Users\DELL\source\repos\project GUI\project GUI\obj\Debug\project GUI.pdb
+C:\Users\DELL\source\repos\project GUI\project GUI\obj\Debug\project_GUI.Dashboard.resources
+C:\Users\DELL\source\repos\project GUI\project GUI\obj\Debug\project_GUI.frmLoading.resources
+C:\Users\DELL\source\repos\project GUI\project GUI\obj\Debug\project_GUI.Loging.resources
+C:\Users\DELL\source\repos\project GUI\project GUI\obj\Debug\project_GUI.Log_out.resources
+C:\Users\DELL\source\repos\project GUI\project GUI\obj\Debug\project_GUI.Bill.resources
+C:\Users\DELL\source\repos\project GUI\project GUI\obj\Debug\project_GUI.Add_user.resources
+C:\Users\DELL\source\repos\project GUI\project GUI\obj\Debug\project_GUI.Order.resources
+C:\Users\DELL\source\repos\project GUI\project GUI\obj\Debug\project_GUI.Customer.resources
+C:\Users\DELL\source\repos\project GUI\project GUI\obj\Debug\project_GUI.Empoyee.resources
+C:\Users\DELL\source\repos\project GUI\project GUI\obj\Debug\project_GUI.Product.resources
+C:\Users\DELL\source\repos\project GUI\project GUI\obj\Debug\project_GUI.Report.resources
+C:\Users\DELL\Desktop\GUI CW 2\project GUI\project GUI\bin\Debug\project GUI.exe.config
+C:\Users\DELL\Desktop\GUI CW 2\project GUI\project GUI\bin\Debug\project GUI.exe
+C:\Users\DELL\Desktop\GUI CW 2\project GUI\project GUI\bin\Debug\project GUI.pdb
+C:\Users\DELL\Desktop\GUI CW 2\project GUI\project GUI\obj\Debug\project GUI.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\GUI CW 2\project GUI\project GUI\obj\Debug\project_GUI.Add_user.resources
+C:\Users\DELL\Desktop\GUI CW 2\project GUI\project GUI\obj\Debug\project_GUI.Bill.resources
+C:\Users\DELL\Desktop\GUI CW 2\project GUI\project GUI\obj\Debug\project_GUI.Customer.resources
+C:\Users\DELL\Desktop\GUI CW 2\project GUI\project GUI\obj\Debug\project_GUI.Order.resources
+C:\Users\DELL\Desktop\GUI CW 2\project GUI\project GUI\obj\Debug\project_GUI.Dashboard.resources
+C:\Users\DELL\Desktop\GUI CW 2\project GUI\project GUI\obj\Debug\project_GUI.Empoyee.resources
+C:\Users\DELL\Desktop\GUI CW 2\project GUI\project GUI\obj\Debug\project_GUI.frmLoading.resources
+C:\Users\DELL\Desktop\GUI CW 2\project GUI\project GUI\obj\Debug\project_GUI.Log_out.resources
+C:\Users\DELL\Desktop\GUI CW 2\project GUI\project GUI\obj\Debug\project_GUI.Loging.resources
+C:\Users\DELL\Desktop\GUI CW 2\project GUI\project GUI\obj\Debug\project_GUI.Product.resources
+C:\Users\DELL\Desktop\GUI CW 2\project GUI\project GUI\obj\Debug\project_GUI.Properties.Resources.resources
+C:\Users\DELL\Desktop\GUI CW 2\project GUI\project GUI\obj\Debug\project_GUI.Report.resources
+C:\Users\DELL\Desktop\GUI CW 2\project GUI\project GUI\obj\Debug\project GUI.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\GUI CW 2\project GUI\project GUI\obj\Debug\project GUI.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\GUI CW 2\project GUI\project GUI\obj\Debug\project GUI.exe
+C:\Users\DELL\Desktop\GUI CW 2\project GUI\project GUI\obj\Debug\project GUI.pdb
+E:\Group GUI CW 2\GUI CW 2\project GUI\project GUI\bin\Debug\project GUI.exe.config
+E:\Group GUI CW 2\GUI CW 2\project GUI\project GUI\bin\Debug\project GUI.exe
+E:\Group GUI CW 2\GUI CW 2\project GUI\project GUI\bin\Debug\project GUI.pdb
+E:\Group GUI CW 2\GUI CW 2\project GUI\project GUI\obj\Debug\project GUI.csproj.AssemblyReference.cache
+E:\Group GUI CW 2\GUI CW 2\project GUI\project GUI\obj\Debug\project_GUI.Add_user.resources
+E:\Group GUI CW 2\GUI CW 2\project GUI\project GUI\obj\Debug\project_GUI.Bill.resources
+E:\Group GUI CW 2\GUI CW 2\project GUI\project GUI\obj\Debug\project_GUI.Customer.resources
+E:\Group GUI CW 2\GUI CW 2\project GUI\project GUI\obj\Debug\project_GUI.Order.resources
+E:\Group GUI CW 2\GUI CW 2\project GUI\project GUI\obj\Debug\project_GUI.Dashboard.resources
+E:\Group GUI CW 2\GUI CW 2\project GUI\project GUI\obj\Debug\project_GUI.Empoyee.resources
+E:\Group GUI CW 2\GUI CW 2\project GUI\project GUI\obj\Debug\project_GUI.frmLoading.resources
+E:\Group GUI CW 2\GUI CW 2\project GUI\project GUI\obj\Debug\project_GUI.Log_out.resources
+E:\Group GUI CW 2\GUI CW 2\project GUI\project GUI\obj\Debug\project_GUI.Loging.resources
+E:\Group GUI CW 2\GUI CW 2\project GUI\project GUI\obj\Debug\project_GUI.Product.resources
+E:\Group GUI CW 2\GUI CW 2\project GUI\project GUI\obj\Debug\project_GUI.Properties.Resources.resources
+E:\Group GUI CW 2\GUI CW 2\project GUI\project GUI\obj\Debug\project_GUI.Report.resources
+E:\Group GUI CW 2\GUI CW 2\project GUI\project GUI\obj\Debug\project GUI.csproj.GenerateResource.cache
+E:\Group GUI CW 2\GUI CW 2\project GUI\project GUI\obj\Debug\project GUI.csproj.CoreCompileInputs.cache
+E:\Group GUI CW 2\GUI CW 2\project GUI\project GUI\obj\Debug\project GUI.exe
+E:\Group GUI CW 2\GUI CW 2\project GUI\project GUI\obj\Debug\project GUI.pdb
+D:\Downloads\GUI CW 2\project GUI\project GUI\bin\Debug\project GUI.exe.config
+D:\Downloads\GUI CW 2\project GUI\project GUI\bin\Debug\project GUI.exe
+D:\Downloads\GUI CW 2\project GUI\project GUI\bin\Debug\project GUI.pdb
+D:\Downloads\GUI CW 2\project GUI\project GUI\obj\Debug\project GUI.csproj.AssemblyReference.cache
+D:\Downloads\GUI CW 2\project GUI\project GUI\obj\Debug\project_GUI.Add_user.resources
+D:\Downloads\GUI CW 2\project GUI\project GUI\obj\Debug\project_GUI.Bill.resources
+D:\Downloads\GUI CW 2\project GUI\project GUI\obj\Debug\project_GUI.Customer.resources
+D:\Downloads\GUI CW 2\project GUI\project GUI\obj\Debug\project_GUI.Order.resources
+D:\Downloads\GUI CW 2\project GUI\project GUI\obj\Debug\project_GUI.Dashboard.resources
+D:\Downloads\GUI CW 2\project GUI\project GUI\obj\Debug\project_GUI.Empoyee.resources
+D:\Downloads\GUI CW 2\project GUI\project GUI\obj\Debug\project_GUI.frmLoading.resources
+D:\Downloads\GUI CW 2\project GUI\project GUI\obj\Debug\project_GUI.Log_out.resources
+D:\Downloads\GUI CW 2\project GUI\project GUI\obj\Debug\project_GUI.Loging.resources
+D:\Downloads\GUI CW 2\project GUI\project GUI\obj\Debug\project_GUI.Product.resources
+D:\Downloads\GUI CW 2\project GUI\project GUI\obj\Debug\project_GUI.Properties.Resources.resources
+D:\Downloads\GUI CW 2\project GUI\project GUI\obj\Debug\project_GUI.Report.resources
+D:\Downloads\GUI CW 2\project GUI\project GUI\obj\Debug\project GUI.csproj.GenerateResource.cache
+D:\Downloads\GUI CW 2\project GUI\project GUI\obj\Debug\project GUI.csproj.CoreCompileInputs.cache
+D:\Downloads\GUI CW 2\project GUI\project GUI\obj\Debug\project GUI.exe
+D:\Downloads\GUI CW 2\project GUI\project GUI\obj\Debug\project GUI.pdb
+D:\Projects\Visual Studio 19\WF Cake Shop\project GUI\project GUI\bin\Debug\project GUI.exe.config
+D:\Projects\Visual Studio 19\WF Cake Shop\project GUI\project GUI\bin\Debug\project GUI.exe
+D:\Projects\Visual Studio 19\WF Cake Shop\project GUI\project GUI\bin\Debug\project GUI.pdb
+D:\Projects\Visual Studio 19\WF Cake Shop\project GUI\project GUI\obj\Debug\project GUI.csproj.AssemblyReference.cache
+D:\Projects\Visual Studio 19\WF Cake Shop\project GUI\project GUI\obj\Debug\project_GUI.Add_user.resources
+D:\Projects\Visual Studio 19\WF Cake Shop\project GUI\project GUI\obj\Debug\project_GUI.Bill.resources
+D:\Projects\Visual Studio 19\WF Cake Shop\project GUI\project GUI\obj\Debug\project_GUI.Customer.resources
+D:\Projects\Visual Studio 19\WF Cake Shop\project GUI\project GUI\obj\Debug\project_GUI.Order.resources
+D:\Projects\Visual Studio 19\WF Cake Shop\project GUI\project GUI\obj\Debug\project_GUI.Dashboard.resources
+D:\Projects\Visual Studio 19\WF Cake Shop\project GUI\project GUI\obj\Debug\project_GUI.Empoyee.resources
+D:\Projects\Visual Studio 19\WF Cake Shop\project GUI\project GUI\obj\Debug\project_GUI.frmLoading.resources
+D:\Projects\Visual Studio 19\WF Cake Shop\project GUI\project GUI\obj\Debug\project_GUI.Log_out.resources
+D:\Projects\Visual Studio 19\WF Cake Shop\project GUI\project GUI\obj\Debug\project_GUI.Loging.resources
+D:\Projects\Visual Studio 19\WF Cake Shop\project GUI\project GUI\obj\Debug\project_GUI.Product.resources
+D:\Projects\Visual Studio 19\WF Cake Shop\project GUI\project GUI\obj\Debug\project_GUI.Properties.Resources.resources
+D:\Projects\Visual Studio 19\WF Cake Shop\project GUI\project GUI\obj\Debug\project_GUI.Report.resources
+D:\Projects\Visual Studio 19\WF Cake Shop\project GUI\project GUI\obj\Debug\project GUI.csproj.GenerateResource.cache
+D:\Projects\Visual Studio 19\WF Cake Shop\project GUI\project GUI\obj\Debug\project GUI.csproj.CoreCompileInputs.cache
+D:\Projects\Visual Studio 19\WF Cake Shop\project GUI\project GUI\obj\Debug\project GUI.exe
+D:\Projects\Visual Studio 19\WF Cake Shop\project GUI\project GUI\obj\Debug\project GUI.pdb
